@@ -15,3 +15,24 @@
     padding: 15px;
     text-align: center;
 }
+#divp{
+word-spacing: 6px;
+letter-spacing: 4px;
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+/* font-weight:900; */
+/* text-transform:uppercase; */
+/* line-height: 100px; to put spaces beetwen the lines */
+/* text-shadow: 10px 10px 5px blue; */
+/* overflow: scroll; */
+/* text-overflow: scroll; */
+
+
+}/* word-spacing: 6px;to put spaces beetwen the words
+letter-spacing: 4px; to put spaces beetwen the letters
+*/
+/*  float :right this tool is using to put hte omage in the right 
+    border-radius:50%;
+
+*/
