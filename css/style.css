@@ -1,0 +1,17 @@
+.link1{
+    padding: 10px;
+    color: firebrick;
+    font-style: italic ;
+    text-decoration: none;
+    text-align: center;
+}
+#h1d{
+
+    text-align: center;
+    text-decoration: double;
+    color: blue;
+}
+#divhead{
+    padding: 15px;
+    text-align: center;
+}
